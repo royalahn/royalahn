@@ -1,4 +1,4 @@
-<div style="display: flex; flex-wrap: nowrap;">
-  <div><img src="assets/images/kakao.gif"/></div>
-  <div><img src="assets/images/kakao2.gif"/></div>
+<div>
+  <img align=top src="assets/images/kakao.gif"/>
+  <img align=top src="assets/images/kakao2.gif"/>
 </div>
