@@ -8,7 +8,7 @@
 [//]: # (  <img align="top" src="assets/images/joayong_sad.gif" width="360"/>)
 [//]: # (</div>)
 
-![rabbit](/assets/rabbit.gif)
+![rabbit](/assets/images/rabbit.gif)
 
 > [!NOTE]
 > - 이미지 출처: https://brunch.co.kr/@roysday/800
